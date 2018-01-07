@@ -1,0 +1,72 @@
+body
+{
+background-color: #B4B6ED;
+background-image: url("afbeeldingen/parisview.jpg");
+background-size: 100% 200%;
+font-family: Georgia;
+margin: 20px;
+padding: 0px;
+color: white;
+}
+
+h1
+{
+color: #595B91;
+margin: 25px;
+padding: 0px;
+font-family: Georgia;
+text-align: center;
+}
+
+h2
+{
+color: #595B91;
+margin: 15px;
+padding: 0px;
+text-align: center;
+}
+
+p
+{
+font-family: Georgia;
+font-size: 20px;
+color: #ffffff;
+text-align: center;
+}
+
+#foto{
+  width: 60px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #595B91;
+    background-color: #595B91
+}
+
+li {
+    float: left;
+    position: relative;
+    left: 205px;
+}
+
+li a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #8E90CC;
+}
+
+li a.active {
+    color: #ffffff;
+    background-color: #595B91;
+}

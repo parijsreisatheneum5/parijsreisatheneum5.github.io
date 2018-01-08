@@ -49,9 +49,8 @@ ul {
     }
 
 li {
-    float: center;
+    float: left;
     position: relative;
-    text-align: center; 
 }
 
 li a {

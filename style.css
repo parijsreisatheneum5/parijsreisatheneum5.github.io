@@ -69,3 +69,7 @@ li a.active {
     color: #ffffff;
     background-color: #595B91;
 }
+
+.nav {
+  text-align: center; 
+}

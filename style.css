@@ -46,12 +46,12 @@ ul {
     overflow: hidden;
     border: 1px solid #595B91;
     background-color: #595B91;
-    text-align: center; 
-}
+    }
 
 li {
     float: left;
     position: relative;
+    text-align: center; 
 }
 
 li a {

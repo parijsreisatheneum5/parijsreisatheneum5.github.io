@@ -49,7 +49,7 @@ ul {
     }
 
 li {
-    float: left;
+    float: center;
     position: relative;
     text-align: center; 
 }

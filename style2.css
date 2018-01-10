@@ -70,6 +70,7 @@ ul {
 
 li {
     float: left;
+    left: 400px;
     position: relative;
 }
 
